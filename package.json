@@ -1,0 +1,29 @@
+{
+  "name": "bharat-intern-(internship)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "blog-website": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dompurify": "^3.1.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsdom": "^24.1.0",
+    "marked": "^12.0.2",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.4.1",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
