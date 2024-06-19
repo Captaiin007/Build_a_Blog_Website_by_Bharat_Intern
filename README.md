@@ -35,7 +35,7 @@ This repository contains a blog website built using Node.js and MongoDB. The web
 
 ### Usage
 
-1. Access the website at 'http://localhost:3000'
+1. Access the website at `http://localhost:5500`
 2. Create a new account or log in to an existing one
 3. Start creating, reading, updating, and deleting blog posts!
 
