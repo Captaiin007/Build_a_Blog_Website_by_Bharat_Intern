@@ -24,7 +24,7 @@ This repository contains a blog website built using Node.js and MongoDB. The web
 
 ### Installation
 
-1. Clone the repository: `git clone (link unavailable)`
+1. Clone the repository: `git clone https://github.com/Captaiin007/Build_a_Blog_Website_by_Bharat_Intern`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
